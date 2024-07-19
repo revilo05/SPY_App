@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">parcial</string>
+    <!-- Button Labels -->
+    <string name="str_btnbuscar">Buscar Emergencia</string>
+    <string name="str_btnregistrar">Registrar Emergencia</string>
+    <string name="str_btnListar">Listar Emergencia</string>
+
+    <!-- Form Labels -->
+    <string name="str_titulo">Título</string>
+    <string name="str_descripcion">Descripción</string>
+    <string name="str_fecha">Fecha</string>
+
+    <!-- Messages -->
+    <string name="str_bienvenido">Bienvenidos</string>
+    <string name="str_descripcion_imagen">Todo</string>
+    <string name="str_listaremergencias">Listado de Emergencias</string>
+    <string name="str_gestionemergencias">Gestión de Emergencias</string>
+    <string name="str_buscaremergencias">Buscar Emergencia por Título</string>
+    <string name="str_digitetitulo">Digite el título a buscar</string>
+
+    <string name="str_btnguardar">Guardar</string>
+    <string name="str_btnactualizar">Actualizar</string>
+    <string name="str_btnborrar">Borrar</string>
+
+
+
+</resources>
